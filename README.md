@@ -16,7 +16,7 @@ You only have to install dependent tools.
 
 #### Dependencies
 
-[MplabX]
+[MplabX IDE](https://www.microchip.com/en-us/development-tools-tools-and-software/mplab-x-ide#tabs)
 
 
 ### How to Contribute
